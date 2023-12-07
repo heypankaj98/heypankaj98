@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @heypankaj98
-- 👀 I’m interested in Graphics
-- 🌱 I’m currently learning Graphic Designing
-- 💞️ I’m looking to collaborate on Illustrator images
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning Pyhton
 - 📫 How to reach me Mail me at Pankkthakur007@gmail.com
 
 <!---
